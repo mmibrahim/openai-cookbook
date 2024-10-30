@@ -6,7 +6,7 @@
 
 The magic of large language models is that by being trained to minimize this prediction error over vast quantities of text, the models end up learning concepts useful for these predictions. For example, they learn:
 
-- how to spell.
+- how to spell
 - how grammar works
 - how to paraphrase
 - how to answer questions
